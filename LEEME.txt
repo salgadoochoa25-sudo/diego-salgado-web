@@ -1,0 +1,29 @@
+SITIO WEB PROFESIONAL — DIEGO ARMANDO SALGADO OCHOA
+
+CONTENIDO
+- index.html: contenido de la web y datos de contacto.
+- styles.css: diseño adaptable, paleta azul oscuro/blanco cálido/dorado.
+- script.js: menú móvil y animaciones discretas.
+- La web incluye una sección específica de experiencia y servicios empresariales.
+- foto-profesional.jpg: recorte más cercano de la fotografía que compartiste.
+
+ANTES DE PUBLICAR
+1. Abre index.html en Chrome y revisa todas las secciones y enlaces.
+2. Revisa cuidadosamente las afirmaciones sobre tu trayectoria y servicios para confirmar que describen fielmente tu experiencia. Edita lo que necesites en index.html.
+3. La fotografía fue recortada para dar más presencia al retrato, sin alterar los rasgos de la persona.
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Ve a https://github.com/ e inicia sesión o crea una cuenta.
+2. Crea un repositorio nuevo llamado diego-salgado-web y selecciona Public.
+3. Dentro del repositorio, pulsa Add file > Upload files.
+4. Sube los CUATRO archivos individuales: index.html, styles.css, script.js y foto-profesional.jpg. No subas el ZIP como sustituto de los archivos.
+5. Pulsa Commit changes.
+6. Ve a Settings > Pages.
+7. En Build and deployment, selecciona Deploy from a branch; Branch: main; Folder: /(root), y pulsa Save.
+8. Espera unos minutos. En Settings > Pages aparecerá la URL pública, normalmente con formato https://TU-USUARIO.github.io/diego-salgado-web/
+
+NOTAS
+- El alojamiento de este sitio estático puede ser gratuito en GitHub Pages con un repositorio público.
+- Un dominio personalizado puede tener costo.
+- El correo, WhatsApp y LinkedIn quedan visibles públicamente. Evita subir datos de clientes o información privada.
+- Las fuentes de Google Fonts requieren conexión a internet; el diseño seguirá siendo legible si no cargan.
